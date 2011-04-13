@@ -1,0 +1,16 @@
+visiotrack 13 Abril 2011 Santiago Higuera
+
+Programa en html-js para el visionado de una manga de regata.
+
+Los datos de la manga son:
+-dtosmanga : Nombre, fecha, cartografía, etc 
+- barcos   : Tabla de datos de los barcos participantes en la manga 
+- marcas   : Lista de marcas (boyas) a pintar en el mapa
+- viento   : Lista de los vientos a distintas horas
+- posnes   : Posiciones absolutas y relativas de los barcos a lo largo del tiempo
+- eventos  : Eventos en instantes concretos: Preaviso, salida, repetir,etc
+
+Los datos vienen ya elaborados. La función del programa es reproducirlos sobre mapa
+
+
+
