@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+#pagina {
+	border: solid 1px grey;
+}
+#cabecera {
+	border: solid 1px grey;
+		
+}
+#contenido {
+	border: solid 1px grey;
+	
+}
+#pie {
+	border: solid 1px grey;
+	
+}
